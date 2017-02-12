@@ -1,14 +1,5 @@
-# Opensocks-Qt for Desktop
-> A fork and advanced version from Shadowsocks-Qt5.
-
-** This version is only for desktop users, another repo can be used for mobile.
-
-## Special Thanks
-Opensocks-Qt cannot without these helppers:  
-[clowwindy](https://shadowsocks.org) The developer of the original project: Shadowsocks.  
-[librehat](https://github.com/librehat) The developer of the Shadowsocks-Qt5 project.  
+# Shadowsocks-Qt5
+These codes are from the original repo of [Shadowsocks-Qt5](https://github.com/shadowsocks/shadowsocks-qt5), especially thanks to librehat!
 
 ## License
-![GNU Lesser General Public License v3.0](http://www.gnu.org/graphics/lgplv3-147x51.png)
-
-This project is under [GNU General Public License v3.0](http://www.gnu.org/copyleft/lesser.html).
+The original project's code uses GNU Lesser General Public License v3, and this repo is also using this license.
