@@ -1,7 +1,8 @@
 # Opensocks-Qt for Desktop
 > A fork and advanced version from Shadowsocks-Qt5.
 
-** This version is only for desktop users, another repo can be used for mobile.
+ This version is only for desktop users, another repo can be used for mobile.  
+ This project is avaliable in [GitHub](https://github.com/opensocks/opensocks-qtd) and [BitBucket](https://bitbucket.org/opensocks/opensocks-qtd).
 
 ## Special Thanks
 Opensocks-Qt cannot without these helppers:  
