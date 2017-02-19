@@ -10,6 +10,6 @@ Opensocks-Qt cannot without these helppers:
 [librehat](https://github.com/librehat) The developer of the Shadowsocks-Qt5 project.  
 
 ## License
-![GNU Lesser General Public License v3.0](http://www.gnu.org/graphics/lgplv3-147x51.png)
+![GNU General Public License v3.0](http://www.gnu.org/graphics/gplv3-147x51.png)
 
-This project is under [GNU General Public License v3.0](http://www.gnu.org/copyleft/lesser.html).
+This project is under [GNU General Public License v3.0](http://www.gnu.org/copyleft/gpl.html).
